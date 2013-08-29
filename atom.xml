@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kdurr.github.io/atom.xml" rel="self"/>
+  <link href="http://kdurr.github.io/"/>
+  <updated>2013-08-29T16:14:05-04:00</updated>
+  <id>http://kdurr.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Adding another to the pile]]></title>
+    <link href="http://kdurr.github.io/blog/2013/08/29/adding-another-to-the-pile/"/>
+    <updated>2013-08-29T15:59:00-04:00</updated>
+    <id>http://kdurr.github.io/blog/2013/08/29/adding-another-to-the-pile</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
